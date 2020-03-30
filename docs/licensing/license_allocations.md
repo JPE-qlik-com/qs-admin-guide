@@ -27,6 +27,6 @@ The goal of this activity is to evaluate license growth and needs using the buil
 
 In the QMC, select **Tasks**:
 
-[![extensions-3.png](images/extensions-3.png)](https://raw.githubusercontent.com/qs-admin-guide/qs-admin-guide/master/docs/asset_management/images/extensions-3.png)
+[![Analyze-Audit License Allocations - QMC - START - TASKS Highlighted.png](images/Analyze-Audit License Allocations - QMC - START - TASKS Highlighted.png)](https://raw.githubusercontent.com/qs-admin-guide/qs-admin-guide/master/docs/license/images/Analyze-Audit License Allocations - QMC - START - TASKS Highlighted.png)
 
 
